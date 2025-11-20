@@ -21,7 +21,7 @@
 ###############################################################################
 
 SOURCE_ROOT="/Users/ski_mini/Downloads/src"
-GITHUB_REPO="/Users/ski_mini/Projects/BSTS"     # ← UPDATE FOR YOUR MACHINE
+GITHUB_REPO="/Users/ski_mini/Downloads/Projects/BSTS/src"     # ← UPDATE FOR YOUR MACHINE
 TARGET_ROOT="$GITHUB_REPO/assets/images"
 MANIFEST="$GITHUB_REPO/tumor_manifest.json"
 
